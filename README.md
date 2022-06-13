@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wav&color=random&height=300&section=header&text=Welcome Visiter&fontSize=90" />
+
 ### Hi there 👋
 
 <h2>Good day🌞</h2>
@@ -48,3 +50,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
