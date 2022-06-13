@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=wav&color=random&height=300&section=header&text=Welcome Visiter&fontSize=90" />
 
 ### Hi there 👋
 
