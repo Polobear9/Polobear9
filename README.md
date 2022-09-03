@@ -11,7 +11,7 @@ We can do Coding❗ together🥳
 <h2>Available Skills & Studying Language 👨‍🎓 💪</h2>
 
 
-### Languages
+#### Languages
 
 <div>
  
@@ -22,7 +22,7 @@ We can do Coding❗ together🥳
  
 </div>
 
-### interest Skils & Languages
+#### interest Skils & Languages
 
 <div>
  
