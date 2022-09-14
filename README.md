@@ -11,7 +11,7 @@ We can do Coding❗ together🥳
 <h2>Available Skills & Studying Language 👨‍🎓 💪</h2>
 
 
-#### Languages
+#### Languages 👨‍🎓
 
 <div>
  
@@ -22,7 +22,7 @@ We can do Coding❗ together🥳
  
 </div>
 
-#### interest Skils & Languages
+#### interest Skils & Languages 📖
 
 <div>
  
@@ -43,8 +43,8 @@ We can do Coding❗ together🥳
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polobear9&show_icons=true&theme=dracula)
-  <!--
-**Polobear9/Polobear9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+  <!--**Polobear9/Polobear9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
