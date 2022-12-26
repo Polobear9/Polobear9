@@ -55,7 +55,7 @@ We can do Coding❗ together🥳
 <h2>GitHub Stats</h2>
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polobear9&show_icons=true&theme=dracula)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polobear9&show_icons=true&theme=dracula&count_private=false)
  
   <!--**Polobear9/Polobear9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
